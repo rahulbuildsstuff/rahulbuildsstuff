@@ -1,5 +1,9 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Rahul
+**Backend-Leaning Full-Stack Developer || API Developer || Clean Architecture Advocate**
+
+Email Me 👉 ✉️ **rahulnalla.tech@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whois_rahul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-nalla-742717329) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whois_rahul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulnalla.tech@gmail.com) 
 
@@ -12,5 +16,22 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulbuildsstuff&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
